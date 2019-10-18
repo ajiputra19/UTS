@@ -55,15 +55,15 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp"
-                android:text="Button Tes 1" />
+                android:text="EKSTRAKULIKULER" />
 
             <Button
                 android:id="@+id/button5"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="70dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp"
-                android:text="Button Tes 2" />
+                android:text="KeLAS" />
 
             <Button
                 android:id="@+id/button6"
@@ -71,7 +71,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp"
-                android:text="Button Tes 3" />
+                android:text="Profil Sekolah" />
 
             <Button
                 android:id="@+id/button7"
@@ -79,7 +79,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp"
-                android:text="Button Tes 4" />
+                android:text="CIVITAS AKADEMIKA" />
 
             <Button
                 android:id="@+id/button8"
@@ -87,7 +87,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp"
-                android:text="Button Tes 5" />
+                android:text="PRESTASI" />
 
             <Button
                 android:id="@+id/button9"
@@ -95,7 +95,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp"
-                android:text="Button Tes 6" />
+                android:text="ALAMAT" />
 
             <Button
                 android:id="@+id/button10"
@@ -103,7 +103,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp"
-                android:text="Button Tes 7" />
+                android:text="YAYASAN" />
         </LinearLayout>
     </ScrollView>
 
